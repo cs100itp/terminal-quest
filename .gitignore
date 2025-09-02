@@ -1,0 +1,6 @@
+answers/.keep
+quests/03_gpg_decrypt/coords.txt
+*.swp
+*.tmp
+__pycache__/
+.DS_Store
